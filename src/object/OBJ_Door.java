@@ -13,7 +13,7 @@ public class OBJ_Door extends SuperObject {
         this.accessToRoom = accessToRoom;
         solidArea=new Rectangle(0,0,64,64);
         try{
-            image = ImageIO.read(new File(""));
+            image = ImageIO.read(new File("res/objects/pen.png"));
 
         } catch (Exception e) {
             e.printStackTrace();
