@@ -8,7 +8,7 @@ This project served as an exploration into 2D game development fundamentals, inc
 
 ## Gameplay Features
 
-* **Key Collection:** Your main objective is to collect keys by colliding with specific Non-Player Characters (NPCs).
+* **Key Collection:** Your main objective is to collect keys by colliding with specific Non-Player Characters (NPCs). While the first key might be easily obtained, ***subsequent keys from the same NPC may require more persistent interaction or repeated engagement***.
 
 * **Door Unlocking:** Collected keys allow you to open locked doors, granting access to new areas and progressing through the game.
 
